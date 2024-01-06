@@ -1,0 +1,16 @@
+@import './assets/colors.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--color-purple0);
+}
+
+.parentContainer {
+  overflow-x: 'scroll';
+  margin: 2rem;
+}

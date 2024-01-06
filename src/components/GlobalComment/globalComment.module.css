@@ -1,0 +1,35 @@
+@import '../../assets/colors.css';
+
+.parentContainer {
+  margin: 0 0 1.6rem;
+  display: flex;
+  align-items: center;
+}
+
+.inputContainer {
+  height: 2rem;
+  font-size: 1.2rem;
+  border: 0.12rem solid var(--color-purple3);
+  border-radius: 0.4rem;
+  outline: none;
+  padding: 0 0.4rem;
+  color: var(--color-purple4);
+}
+
+.inputContainer:focus {
+  outline: 0.1rem solid var(--color-purple3);
+}
+
+.commentButton {
+  margin-left: 1.2rem;
+  padding: 0.4rem;
+  letter-spacing: 0.04rem;
+  border-radius: 0.4rem;
+  background-color: var(--color-purple2);
+  border: none;
+  height: 2rem;
+  padding: 0 1rem;
+  color: var(--color-purple5);
+  font-weight: 600;
+  font-size: 1.2rem;
+}
