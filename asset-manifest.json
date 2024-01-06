@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nested-comment/static/css/main.c645c547.css",
+    "main.js": "/nested-comment/static/js/main.69cc5e43.js",
+    "index.html": "/nested-comment/index.html",
+    "main.c645c547.css.map": "/nested-comment/static/css/main.c645c547.css.map",
+    "main.69cc5e43.js.map": "/nested-comment/static/js/main.69cc5e43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c645c547.css",
+    "static/js/main.69cc5e43.js"
+  ]
+}
